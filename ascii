@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main()
+{
+  char c='k';
+  printf("ASCII value of a character of %c is %d",c,c);
+   return 0;
+}
